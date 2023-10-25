@@ -1,0 +1,21 @@
+/* Styles CSS personnalisés */
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: black;
+}
+
+
+/* Styles CSS personnalisés pour "À propos de nous" */
+#about {
+    background-color: blue; /* Arrière-plan bleu */
+    color: black; /* Texte noir */
+}
+
+/* Styles CSS personnalisés pour "Événements" */
+#events {
+    background-color: blue; /* Arrière-plan bleu */
+    color: black; /* Texte noir */
+}
+
+
